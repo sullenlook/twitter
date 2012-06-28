@@ -1,0 +1,37 @@
+TWITTER PLUGIN IN DEUTSCH
+
+
+Sag einfach "Twitter" zum starten.
+
+
+Clone SiriServerWebAddons in Dein www Ordner.
+ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
+
+        https://github.com/cedbv/SiriServer-WebAddons.git
+
+
+Clone twitter in Dein plugins Ordner.
+ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
+
+        https://github.com/sullenlook/twitter.git
+
+
+Füge folgendes in plugins.conf:
+ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
+
+        twitter
+
+
+Füge folgendes in plugins.conf ein bearbeite xxx:
+ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
+
+        #twitterPlugin
+        twitter_consumer_key = "xxx"
+        twitter_consumer_secret = "xxx"
+        twitter_access_token_key = "xxx"
+        twitter_access_token_secret = "xxx"
+        twitter_username = "xxx"
+
+
+
+FERTIG
